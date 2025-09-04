@@ -18,10 +18,10 @@ O jogador enfrenta a máquina (Alexa 🤖), e o placar é atualizado em tempo re
 
 ## 🖼️ Demonstração  
 
-Exemplo de imagem   
+Imagem do Projeto   
 
 <img src="https://raw.githubusercontent.com/willians-wil/Projeto-Joken-P-/f8f3119e4c500d724ba04db17fee6629fa15312e/assets/projeto%20jknp.png" >
 
-<h1><b><i>Demonstração do jogo</i></b></h1>
+Demonstração do Jogo 
 
-(./assetes/animação.gif)
+<img src="https://github.com/willians-wil/Projeto-Joken-P-/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true" />
