@@ -21,4 +21,6 @@ O jogador enfrenta a máquina (Alexa 🤖), e o placar é atualizado em tempo re
 
 Exemplo de imagem no GitHub:  
 ```markdown
-![Jogo Jokenpô](./assets/preview.png)
+![Jogo Jokenpô]
+
+<img src="https://raw.githubusercontent.com/willians-wil/Projeto-Joken-P-/f8f3119e4c500d724ba04db17fee6629fa15312e/assets/projeto%20jknp.png" >
