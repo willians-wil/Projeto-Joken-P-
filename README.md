@@ -20,7 +20,7 @@ O jogador enfrenta a máquina (Alexa 🤖), e o placar é atualizado em tempo re
 > Você pode adicionar aqui um **print** ou **gif** do jogo em funcionamento.  
 
 Exemplo de imagem no GitHub:  
-```markdown
-![Jogo Jokenpô]
 
 <img src="https://raw.githubusercontent.com/willians-wil/Projeto-Joken-P-/f8f3119e4c500d724ba04db17fee6629fa15312e/assets/projeto%20jknp.png" >
+
+<h2>Demonstração do jogo</h2>
